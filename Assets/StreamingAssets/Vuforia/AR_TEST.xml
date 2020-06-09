@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="BOOK_LOVECRAFT_RED" size="0.140000 0.205156" />
+    <ImageTarget name="BOOK_LOVECRAFT_GREEN" size="0.140000 0.210700" />
+    <ImageTarget name="BOOK_LOVECRAFT_BLUE" size="0.140000 0.207768" />
+    <ImageTarget name="BOOK_DIABLO_III_A_ORDEM" size="0.155000 0.224840" />
+  </Tracking>
+</QCARConfig>
